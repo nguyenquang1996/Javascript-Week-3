@@ -79,8 +79,8 @@ function js_clickRight() {
 }
 
 /**
- * @param int n Value form HTML in event js_click,show image when click image small.
- * 
+ * @param int n Value form HTML in event js_click.
+ * show image when click image small.
  */
 function js_click(n) {
     reset();
