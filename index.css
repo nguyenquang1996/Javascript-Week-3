@@ -12,3 +12,7 @@ body {
     border-bottom: 1px solid black;
     font-size: 17px;
 }
+
+ul li a:visited{
+    color: blue;
+}
