@@ -4,8 +4,8 @@
  */
 
 var sliderImages = document.getElementsByClassName("slide"); 
-var current = 0; // First image (current: 0 -> 4)
-var temporal = document.getElementsByClassName("picture-name"); // Save the selected image.
+var current = 0; // First image,dot (current,dot: 0 -> 4)
+var temporal = document.getElementsByClassName("picture-name"); // Print the number selected image.
 var dots = document.getElementsByClassName("dot-picture"); // Identify large image in small image.
 
 /**
