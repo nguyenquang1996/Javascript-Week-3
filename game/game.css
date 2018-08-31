@@ -1,0 +1,26 @@
+#point {
+	margin-left: 610px;
+	margin-top: -600px;
+}
+
+#pointmax {
+	margin-left: 610px;
+}
+
+#pause {
+	position: relative;
+	margin-left: 610px;
+}
+
+#pausetext {
+	position: absolute;	
+	margin-left: 680px;
+	margin-top: -20px;
+	display: none;
+}
+
+#boom {
+	position: relative;
+	margin-left: 610px;
+	margin-top: 10px;
+}
